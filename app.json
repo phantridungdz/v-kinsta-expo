@@ -1,0 +1,8 @@
+{
+  "ios": {
+    "bundleIdentifier": "com.phantchase.v-kinsta"
+  },
+  "android": {
+    "package": "com.phantchase.vkinsta"
+  }
+}
